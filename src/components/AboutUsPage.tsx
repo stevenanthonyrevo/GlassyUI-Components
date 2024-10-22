@@ -4,6 +4,8 @@ import styled from 'styled-components';
 import { FaGithub } from 'react-icons/fa';
 
 // Styled component for the main container of the About Us page
+import styled from 'styled-components';
+
 const AboutUsContainer = styled.div`
   max-width: 900px; // Maximum width of the container
   margin: 0 auto; // Center the container horizontally
