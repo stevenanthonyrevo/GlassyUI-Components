@@ -5,6 +5,8 @@ import {
   Routes,
   useLocation,
 } from 'react-router-dom';
+import ScrollProgressBar from './components/ScrollProgress';
+import PricingDetailPage from './components/PricingDetailPage';
 import GlassyUILandingPage from './components/GlassyUILandingPage';
 import GlassyUIComponentsPage from './components/GlassyUIComponentsPage';
 import ButtonDetailsPage from './components/ButtonDetailsPage';
